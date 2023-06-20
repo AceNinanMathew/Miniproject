@@ -1,0 +1,9 @@
+
+.input-focused {
+    transform: scale(1.03); /* Increase the size */
+    transition: transform 0.5s ease-in-out; /* Add a smooth transition */
+  }
+  .input-blured {
+    transform: scale(1); /* Increase the size */
+    transition: transform 0.5s ease-out; /* Add a smooth transition */
+  }
